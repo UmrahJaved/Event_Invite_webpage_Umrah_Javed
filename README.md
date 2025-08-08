@@ -12,4 +12,8 @@
    <img width="1913" height="973" alt="image" src="https://github.com/user-attachments/assets/21903e22-aa08-46b7-9aa2-1a706be722b0" />
 
 4. Created a repository and include my name in the repository name and added `index.html`.
+   <br>
+   <br>
+   <img width="1913" height="923" alt="image" src="https://github.com/user-attachments/assets/f6c1ad39-1365-4d52-b3c4-313a04424ef2" />
+
 5. Deployment of Project on github pages.
