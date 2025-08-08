@@ -17,3 +17,8 @@
    <img width="1913" height="923" alt="image" src="https://github.com/user-attachments/assets/f6c1ad39-1365-4d52-b3c4-313a04424ef2" />
 
 5. Deployment of Project on github pages.
+   <br>
+   <br>
+   <img width="1909" height="911" alt="image" src="https://github.com/user-attachments/assets/b6d33294-4c9c-4f28-991b-ec10b580d180" />
+   Link for the deployed webpage: `https://umrahjaved.github.io/Event_Invite_webpage_Umrah_Javed/`
+
